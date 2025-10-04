@@ -55,6 +55,7 @@ int main() {
         }
 
     } while (secim != 4);
+    cout << "Program sonlandi." << endl;
 
     return 0;
 }
