@@ -19,7 +19,7 @@ int main() {
         if (cin.fail()) {
             cin.clear();
             cin.ignore(1000, '\n');
-            cout << "Gecersiz girdi. Lütfen bir sayi giriniz.\n";
+            cout << "Gecersiz girdi. Lutfen bir sayi giriniz.\n";
             continue;
         }
         if (s == 0) {
